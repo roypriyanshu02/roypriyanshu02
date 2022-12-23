@@ -1,19 +1,19 @@
-<h1 align="center">greetings_with_an_emoji</h1>
+<h1 align="center">Hi there👋🏻</h1>
 
 **roypriyanshu02** ➜ **~** **$** introd name \
-&nbsp;your_name
+&nbsp;Priyanshu Roy
 
 **roypriyanshu02** ➜ **~** **$** introd pronouns \
-&nbsp;pronouns
+&nbsp;He | Him
 
 **roypriyanshu02** ➜ **~** **$** introd roles \
-&nbsp;your_roles
+&nbsp;CSE Student, Web & Software Developer, Entrepreneur and Data Analyst
 
 **roypriyanshu02** ➜ **~** **$** introd speaker \
-&nbsp;languages_you_speak
+&nbsp;English, Hindi and Bengali
 
 **roypriyanshu02** ➜ **~** **$** introd summary \
-&nbsp;short_summary_about_you
+&nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are truly useful.
 
 **roypriyanshu02** ➜ **~** **$** introd quick-facts \
 &nbsp;🔭 I’m currently working on *[project_name](#project_link)*. \

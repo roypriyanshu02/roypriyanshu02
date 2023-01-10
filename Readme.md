@@ -16,11 +16,11 @@
 &nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are truly useful
 
 **roypriyanshu02** ➜ **~** **$** introd quick-facts \
-&nbsp;🔭 I’m currently working mainly on *[Wellally](https://github.com/wellally)*. \
+&nbsp;🔭 I’m currently working mainly on *[Wellallies](https://github.com/wellallies)*. \
 &nbsp;🤝 I’m always ready to collaborate on *Open-source & Start-up projects*. \
 &nbsp;✨ Interested in *UX Designing, Web & Software Developing and Machine learning*. \
-&nbsp;💬 Ask me about *anything*. \
-&nbsp;📄 Check out my Resume *[here](https://drive.google.com/drive/folders/1sIvW7jsUrjzo3ycM6Kf4wF6hoH9fkB9J?usp=share_link)*. \
+&nbsp;💬 Ask me about *Anything*. \
+&nbsp;📄 Check out my Resume *[Here](https://drive.google.com/drive/folders/1sIvW7jsUrjzo3ycM6Kf4wF6hoH9fkB9J?usp=share_link)*. \
 &nbsp;👾 Fun fact _Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)_.
 
 **roypriyanshu02** ➜ **~** **$** introd technologies \
@@ -80,7 +80,7 @@
 
 
 **roypriyanshu02** ➜ **~** **$** introd see-you \
-&nbsp;I like connecting with different people so if you want to say *hi👋🏻*, here's my social media handles *[@roypriyanshu02](https://about.me/roypriyanshu02)*. I'll be happy to meet you more!
+&nbsp;I like connecting with different people so if you want to say *Hi👋🏻*, here's my social media handles *[@roypriyanshu02](https://about.me/roypriyanshu02)*. I'll be happy to meet you more!
 
 ---
 

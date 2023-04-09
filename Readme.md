@@ -1,21 +1,21 @@
 <h1 align="center">Hi there👋🏻</h1>
 
-**𝗿𝗼𝘆𝗽𝗿𝗶𝘆𝗮𝗻𝘀𝗵𝘂𝟬𝟮** ➜ **~** **$** introd name \
+**roypriyanshu02** ➜ **~** **$** introd name \
 &nbsp;Priyanshu Roy
 
-**𝗿𝗼𝘆𝗽𝗿𝗶𝘆𝗮𝗻𝘀𝗵𝘂𝟬𝟮** ➜ **~** **$** introd pronouns \
+**roypriyanshu02** ➜ **~** **$** introd pronouns \
 &nbsp;He | Him
 
-**𝗿𝗼𝘆𝗽𝗿𝗶𝘆𝗮𝗻𝘀𝗵𝘂𝟬𝟮** ➜ **~** **$** introd roles \
+**roypriyanshu02** ➜ **~** **$** introd roles \
 &nbsp;CSE Student, Web & Software Developer, Entrepreneur and Data Analyst
 
-**𝗿𝗼𝘆𝗽𝗿𝗶𝘆𝗮𝗻𝘀𝗵𝘂𝟬𝟮** ➜ **~** **$** introd speaker \
+**roypriyanshu02** ➜ **~** **$** introd speaker \
 &nbsp;English, Hindi and Bengali
 
-**𝗿𝗼𝘆𝗽𝗿𝗶𝘆𝗮𝗻𝘀𝗵𝘂𝟬𝟮** ➜ **~** **$** introd summary \
+**roypriyanshu02** ➜ **~** **$** introd summary \
 &nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are truly useful
 
-**𝗿𝗼𝘆𝗽𝗿𝗶𝘆𝗮𝗻𝘀𝗵𝘂𝟬𝟮** ➜ **~** **$** introd quick-facts \
+**roypriyanshu02** ➜ **~** **$** introd quick-facts \
 &nbsp;🔭 I’m currently working mainly on _[Wellallies](https://github.com/wellallies)_. \
 &nbsp;🤝 I’m always ready to collaborate on _Open-source & Start-up projects_. \
 &nbsp;✨ Interested in _UX Designing, Web & Software Developing and Machine learning_. \
@@ -23,7 +23,7 @@
 &nbsp;📄 Check out my Resume _[Here](https://drive.google.com/drive/folders/1sIvW7jsUrjzo3ycM6Kf4wF6hoH9fkB9J?usp=share_link)_. \
 &nbsp;👾 Fun fact _Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)_.
 
-**𝗿𝗼𝘆𝗽𝗿𝗶𝘆𝗮𝗻𝘀𝗵𝘂𝟬𝟮** ➜ **~** **$** introd technologies \
+**roypriyanshu02** ➜ **~** **$** introd technologies \
 &nbsp;Languages : \
 &nbsp;<a href="https://html.spec.whatwg.org/multipage/" title="HTML5"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Html5/e34f26"></a>&nbsp;
 <a href="https://www.w3.org/TR/CSS/#css" title="CSS3"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Css3/1572b6"></a>&nbsp;
@@ -78,7 +78,7 @@
 <a href="https://aws.amazon.com/" title="AWS - Will learn soon"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/AmazonAWS/ff990010"></a>&nbsp;
 <a href="https://firebase.google.com/" title="Firebase - Will learn soon"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Firebase/ffca2810"></a>
 
-**𝗿𝗼𝘆𝗽𝗿𝗶𝘆𝗮𝗻𝘀𝗵𝘂𝟬𝟮** ➜ **~** **$** introd see-you \
+**roypriyanshu02** ➜ **~** **$** introd see-you \
 &nbsp;I like connecting with different people so if you want to say _Hi👋🏻_, here's my social media handles _[@roypriyanshu02](https://about.me/roypriyanshu02)_. I'll be happy to meet you more!
 
 ---

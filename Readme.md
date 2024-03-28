@@ -25,40 +25,40 @@
 
 **roypriyanshu02** ➜ **~** **$** introd technologies \
 &nbsp;Languages : \
-&nbsp;<a href="https://html.spec.whatwg.org/multipage/" title="HTML5"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Html5/e34f26"></a>&nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" title="CSS3"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Css3/1572b6"></a>&nbsp;
-<a href="http://www.ecma-international.org/publications-and-standards/standards/ecma-262/" title="JavaScript"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/JavaScript/f7df1e"></a>&nbsp;
-<a href="https://www.php.net/" title="PHP"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Php/777bb4"></a>&nbsp;
-<a href="https://sass-lang.com/" title="Sass"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Sass/CC6699"></a>&nbsp;
-<a href="https://www.python.org/" title="Python"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Python/ffd43b"></a> \
+&nbsp;<a rel="nofollow" href="https://html.spec.whatwg.org/multipage/" target="_blank" title="HTML5"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Html5/e34f26"></a>&nbsp;
+<a rel="nofollow" href="https://www.w3.org/TR/CSS/#css" target="_blank" title="CSS3"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Css3/1572b6"></a>&nbsp;
+<a rel="nofollow" href="http://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" title="JavaScript"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/JavaScript/f7df1e"></a>&nbsp;
+<a rel="nofollow" href="https://www.php.net/" target="_blank" title="PHP"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Php/777bb4"></a>&nbsp;
+<a rel="nofollow" href="https://sass-lang.com/" target="_blank" title="Sass"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Sass/CC6699"></a>&nbsp;
+<a rel="nofollow" href="https://www.python.org/" target="_blank" title="Python"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Python/ffd43b"></a> \
 &nbsp;Frameworks & Libraries : \
-&nbsp;<a href="https://getbootstrap.com/" title="Bootstrap CSS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Bootstrap/7952b3"></a>&nbsp;
-<a href="https://tailwindcss.com/" title="Tailwind CSS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/TailwindCss/06b6d4"></a>&nbsp;
-<a href="https://jquery.com/" title="jQuery"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/jQuery/0769ad"></a>&nbsp;
-<a href="https://vuejs.org/" title="Vue"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Vue.js/4fc08d"></a>&nbsp;
-<a href="https://vuetifyjs.com/" title="Vuetify"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Vuetify/1867c0"></a>&nbsp;
-<a href="https://svelte.dev/" title="Svelte"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Svelte/ff3e00"></a> \
+&nbsp;<a rel="nofollow" href="https://getbootstrap.com/" target="_blank" title="Bootstrap CSS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Bootstrap/7952b3"></a>&nbsp;
+<a rel="nofollow" href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/TailwindCss/06b6d4"></a>&nbsp;
+<a rel="nofollow" href="https://jquery.com/" target="_blank" title="jQuery"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/jQuery/0769ad"></a>&nbsp;
+<a rel="nofollow" href="https://vuejs.org/" target="_blank" title="Vue"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Vue.js/4fc08d"></a>&nbsp;
+<a rel="nofollow" href="https://vuetifyjs.com/" target="_blank" title="Vuetify"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Vuetify/1867c0"></a>&nbsp;
+<a rel="nofollow" href="https://svelte.dev/" target="_blank" title="Svelte"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Svelte/ff3e00"></a> \
 &nbsp;Databases & ORMs : \
-&nbsp;<a href="https://www.mysql.com/" title="MySQL"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MySQL/f29111"></a>&nbsp;
-<a href="https://mariadb.org/" title="MariaDB"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MariaDB/003545"></a>&nbsp;
-<a href="https://www.sqlite.org/" title="SQLite"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/SQLite/003b57"></a> \
+&nbsp;<a rel="nofollow" href="https://www.mysql.com/" target="_blank" title="MySQL"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MySQL/f29111"></a>&nbsp;
+<a rel="nofollow" href="https://mariadb.org/" target="_blank" title="MariaDB"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MariaDB/003545"></a>&nbsp;
+<a rel="nofollow" href="https://www.sqlite.org/" target="_blank" title="SQLite"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/SQLite/003b57"></a> \
 &nbsp;Tools & Miscellaneous : \
-&nbsp;<a href="https://www.gnu.org/software/bash/" title="GNU Bash"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/GNUBash/4eaa25"></a>&nbsp;
-<a href="https://nodejs.org/" title="NodeJS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Node.js/339933"></a>&nbsp;
-<a href="https://git-scm.com/" title="Git"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Git/f05032"></a> \
+&nbsp;<a rel="nofollow" href="https://www.gnu.org/software/bash/" target="_blank" title="GNU Bash"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/GNUBash/4eaa25"></a>&nbsp;
+<a rel="nofollow" href="https://nodejs.org/" target="_blank" title="NodeJS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Node.js/339933"></a>&nbsp;
+<a rel="nofollow" href="https://git-scm.com/" target="_blank" title="Git"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Git/f05032"></a> \
 &nbsp;Applications : \
-&nbsp;<a href="https://www.microsoft.com/en/microsoft-365/" title="Microsoft Office"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MicrosoftOffice/d83b01"></a>&nbsp;
-<a href="https://www.adobe.com/in/products/photoshop/" title="Adobe Photoshop"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/AdobePhotoshop/31a8ff"></a>&nbsp;
-<a href="https://www.vegascreativesoftware.com/in/vegas-pro/" title="Vegas Pro"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Vitess/406aff"></a>&nbsp;
-<a href="https://www.audacityteam.org/" title="Audacity"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Audacity/0000cc"></a>&nbsp;
-<a href="https://www.sublimetext.com/" title="Sublime Text"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/SublimeText/ff9800"></a>&nbsp;
-<a href="https://www.adobe.com/in/products/xd/" title="Adobe XD"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/AdobeXD/ff61f6"></a>&nbsp;
-<a href="https://www.postman.com/" title="Postman"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Postman/ff6c37"></a>&nbsp;
-<a href="https://code.visualstudio.com/" title="VSCode"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/VisualStudioCode/007acc"></a>&nbsp;
-<a href="https://www.figma.com/" title="Figma"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Figma/0acf83"></a> \
+&nbsp;<a rel="nofollow" href="https://www.microsoft.com/en/microsoft-365/" target="_blank" title="Microsoft Office"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MicrosoftOffice/d83b01"></a>&nbsp;
+<a rel="nofollow" href="https://www.adobe.com/in/products/photoshop/" target="_blank" title="Adobe Photoshop"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/AdobePhotoshop/31a8ff"></a>&nbsp;
+<a rel="nofollow" href="https://www.vegascreativesoftware.com/in/vegas-pro/" target="_blank" title="Vegas Pro"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Vitess/406aff"></a>&nbsp;
+<a rel="nofollow" href="https://www.audacityteam.org/" target="_blank" title="Audacity"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Audacity/0000cc"></a>&nbsp;
+<a rel="nofollow" href="https://www.sublimetext.com/" target="_blank" title="Sublime Text"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/SublimeText/ff9800"></a>&nbsp;
+<a rel="nofollow" href="https://www.adobe.com/in/products/xd/" target="_blank" title="Adobe XD"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/AdobeXD/ff61f6"></a>&nbsp;
+<a rel="nofollow" href="https://www.postman.com/" target="_blank" title="Postman"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Postman/ff6c37"></a>&nbsp;
+<a rel="nofollow" href="https://code.visualstudio.com/" target="_blank" title="VSCode"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/VisualStudioCode/007acc"></a>&nbsp;
+<a rel="nofollow" href="https://www.figma.com/" target="_blank" title="Figma"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Figma/0acf83"></a> \
 &nbsp;OSs & Platforms : \
-&nbsp;<a href="https://www.microsoft.com/en-in/windows/" title="Windows"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Windows11/0078d4"></a>&nbsp;
-<a href="https://ubuntu.com/" title="Ubuntu"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Ubuntu/e95420"></a>
+&nbsp;<a rel="nofollow" href="https://www.microsoft.com/en-in/windows/" target="_blank" title="Windows"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Windows11/0078d4"></a>&nbsp;
+<a rel="nofollow" href="https://ubuntu.com/" target="_blank" title="Ubuntu"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Ubuntu/e95420"></a>
 
 **roypriyanshu02** ➜ **~** **$** introd see-you \
 &nbsp;I like connecting with different people so if you want to say _Hi👋🏻_, here's my social media handles _[@roypriyanshu02](https://about.me/roypriyanshu02)_. I'll be happy to meet you more!

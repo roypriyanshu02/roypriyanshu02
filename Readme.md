@@ -1,68 +1,45 @@
-<h1 align="center">Hi there👋🏻</h1>
+<h1 align="center">Hi there 👋🏻, I'm Priyanshu!</h1>
 
-**roypriyanshu02** ➜ **~** **$** introd name \
-&nbsp;Priyanshu Roy
+<p align="center"><em>"Think big. Start small. Build now."</em></p>
 
-**roypriyanshu02** ➜ **~** **$** introd pronouns \
-&nbsp;He | Him
+<br>
 
-**roypriyanshu02** ➜ **~** **$** introd roles \
-&nbsp;CSE Student, Web & Software Developer, Entrepreneur and Data Analyst
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** whoami <br>
+> **User:** Priyanshu Roy <br>
+> **Pronouns:** He/Him <br>
+> **Location:** Bengaluru, Karnataka, India (Originally Naihati, WB) <br>
+> **Languages:** English, Hindi, Bengali <br>
+> **Bio:** I love building things that are actually useful and meaningful. <br><br>
 
-**roypriyanshu02** ➜ **~** **$** introd speaker \
-&nbsp;English, Hindi and Bengali
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** bat ~/about.txt <br>
+> **Focus:** CSE student building practical, open-source software and tools. <br>
+> **Open to:** Early-stage startup teams, hackathon squads, or open-source projects that need a pair of hands. <br>
+> **Fun fact:** Voyager 1 is over 15 billion miles away, operating on just 69.63 kilobytes of memory. <br><br>
 
-**roypriyanshu02** ➜ **~** **$** introd summary \
-&nbsp;I love figuring out new technology and using it. I enjoy collaborating or building new open-source or commercial products and services that are truly useful
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** eza --tree --level=2 ~/interests/ <br>
+> ├── **Domains/** <br>
+> │&nbsp;&nbsp;&nbsp;└── [App & Web Development](#)  •  [AI/ML](#)  •  [Entrepreneurship](#) <br>
+> └── **Hobbies/** <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [Music](#)  •  [Photography](#)  •  [Travel](#)  •  [Movie/Series](#)  •  [Gardening](#)  •  [Space](#)  •  [Creative Writing](#) <br><br>
 
-**roypriyanshu02** ➜ **~** **$** introd quick-facts \
-&nbsp;🔭 I’m currently working mainly on _[Wellallies](https://github.com/wellallies)_. \
-&nbsp;🤝 I’m always ready to collaborate on _Open-source & Start-up projects_. \
-&nbsp;✨ Interested in _UX Designing, Web & Software Developing and Machine learning_. \
-&nbsp;💬 Ask me about _Anything_. \
-&nbsp;📄 Check out my Resume _[Here](https://drive.google.com/drive/folders/1sIvW7jsUrjzo3ycM6Kf4wF6hoH9fkB9J?usp=share_link)_. \
-&nbsp;👾 Fun fact _Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)_.
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** eza --tree --level=2 ~/notebook/computer_science/ <br>
+> ├── **Languages/** <br>
+> │&nbsp;&nbsp;&nbsp;└── [TypeScript](#)  •  [Go](#)  •  [HTML5](#)  •  [CSS3](#)  •  [PHP](#) <br>
+> ├── **Frameworks/** <br>
+> │&nbsp;&nbsp;&nbsp;└── [SvelteKit](#)  •  [Tailwind CSS](#)  •  [Next.js](#) <br>
+> ├── **Databases/** <br>
+> │&nbsp;&nbsp;&nbsp;└── [SQLite](#)  •  [MySQL/MariaDB](#)  •  [PostgreSQL](#) <br>
+> ├── **Tools/** <br>
+> │&nbsp;&nbsp;&nbsp;└── [VS Code & Zed](#)  •  [Antigravity & Claude Code](#)  •  [Terminal](#)  •  [Git](#)  •  [Bruno](#)  •  [DBeaver](#)  •  [Ollama](#)  •  [Chromium & Firefox Dev](#)  •  [Figma](#)  •  [Photoshop](#)  •  [Affinity](#)  •  [DaVinci Resolve](#)  •  [Audacity](#) <br>
+> └── **Platforms/** <br>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [Linux](#)  •  [WSL](#)  •  [Windows](#)  •  [Node/Bun](#)  •  [Docker](#) <br><br>
 
-**roypriyanshu02** ➜ **~** **$** introd technologies \
-&nbsp;Languages : \
-&nbsp;<a rel="nofollow" href="https://html.spec.whatwg.org/multipage/" target="_blank" title="HTML5"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Html5/e34f26"></a>&nbsp;
-<a rel="nofollow" href="https://www.w3.org/TR/CSS/#css" target="_blank" title="CSS3"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Css3/1572b6"></a>&nbsp;
-<a rel="nofollow" href="http://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" title="JavaScript"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/JavaScript/f7df1e"></a>&nbsp;
-<a rel="nofollow" href="https://www.php.net/" target="_blank" title="PHP"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Php/777bb4"></a>&nbsp;
-<a rel="nofollow" href="https://sass-lang.com/" target="_blank" title="Sass"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Sass/CC6699"></a>&nbsp;
-<a rel="nofollow" href="https://www.python.org/" target="_blank" title="Python"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Python/ffd43b"></a> \
-&nbsp;Frameworks & Libraries : \
-&nbsp;<a rel="nofollow" href="https://getbootstrap.com/" target="_blank" title="Bootstrap CSS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Bootstrap/7952b3"></a>&nbsp;
-<a rel="nofollow" href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/TailwindCss/06b6d4"></a>&nbsp;
-<a rel="nofollow" href="https://jquery.com/" target="_blank" title="jQuery"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/jQuery/0769ad"></a>&nbsp;
-<a rel="nofollow" href="https://vuejs.org/" target="_blank" title="Vue"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Vue.js/4fc08d"></a>&nbsp;
-<a rel="nofollow" href="https://vuetifyjs.com/" target="_blank" title="Vuetify"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Vuetify/1867c0"></a>&nbsp;
-<a rel="nofollow" href="https://svelte.dev/" target="_blank" title="Svelte"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Svelte/ff3e00"></a> \
-&nbsp;Databases & ORMs : \
-&nbsp;<a rel="nofollow" href="https://www.mysql.com/" target="_blank" title="MySQL"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MySQL/f29111"></a>&nbsp;
-<a rel="nofollow" href="https://mariadb.org/" target="_blank" title="MariaDB"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MariaDB/003545"></a>&nbsp;
-<a rel="nofollow" href="https://www.sqlite.org/" target="_blank" title="SQLite"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/SQLite/003b57"></a> \
-&nbsp;Tools & Miscellaneous : \
-&nbsp;<a rel="nofollow" href="https://www.gnu.org/software/bash/" target="_blank" title="GNU Bash"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/GNUBash/4eaa25"></a>&nbsp;
-<a rel="nofollow" href="https://nodejs.org/" target="_blank" title="NodeJS"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Node.js/339933"></a>&nbsp;
-<a rel="nofollow" href="https://git-scm.com/" target="_blank" title="Git"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Git/f05032"></a> \
-&nbsp;Applications : \
-&nbsp;<a rel="nofollow" href="https://www.microsoft.com/en/microsoft-365/" target="_blank" title="Microsoft Office"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/MicrosoftOffice/d83b01"></a>&nbsp;
-<a rel="nofollow" href="https://www.adobe.com/in/products/photoshop/" target="_blank" title="Adobe Photoshop"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/AdobePhotoshop/31a8ff"></a>&nbsp;
-<a rel="nofollow" href="https://www.vegascreativesoftware.com/in/vegas-pro/" target="_blank" title="Vegas Pro"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Vitess/406aff"></a>&nbsp;
-<a rel="nofollow" href="https://www.audacityteam.org/" target="_blank" title="Audacity"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Audacity/0000cc"></a>&nbsp;
-<a rel="nofollow" href="https://www.sublimetext.com/" target="_blank" title="Sublime Text"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/SublimeText/ff9800"></a>&nbsp;
-<a rel="nofollow" href="https://www.adobe.com/in/products/xd/" target="_blank" title="Adobe XD"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/AdobeXD/ff61f6"></a>&nbsp;
-<a rel="nofollow" href="https://www.postman.com/" target="_blank" title="Postman"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Postman/ff6c37"></a>&nbsp;
-<a rel="nofollow" href="https://code.visualstudio.com/" target="_blank" title="VSCode"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/VisualStudioCode/007acc"></a>&nbsp;
-<a rel="nofollow" href="https://www.figma.com/" target="_blank" title="Figma"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Figma/0acf83"></a> \
-&nbsp;OSs & Platforms : \
-&nbsp;<a rel="nofollow" href="https://www.microsoft.com/en-in/windows/" target="_blank" title="Windows"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Windows11/0078d4"></a>&nbsp;
-<a rel="nofollow" href="https://ubuntu.com/" target="_blank" title="Ubuntu"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/Ubuntu/e95420"></a>
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** bat ~/message.txt <br>
+> I enjoy meeting builders, thinkers, and curious minds. If you have an idea to share, feel free to say hi. <br><br>
 
-**roypriyanshu02** ➜ **~** **$** introd see-you \
-&nbsp;I like connecting with different people so if you want to say _Hi👋🏻_, here's my social media handles _[@roypriyanshu02](https://about.me/roypriyanshu02)_. I'll be happy to meet you more!
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** bat ~/contact.txt <br>
+> [Resume](https://drive.google.com/drive/folders/1sIvW7jsUrjzo3ycM6Kf4wF6hoH9fkB9J?usp=share_link)  •  [LinkedIn](https://linkedin.com/in/roypriyanshu02)  •  [GitHub](https://github.com/roypriyanshu02)  •  [About.me](https://about.me/roypriyanshu02) <br><br>
 
----
+<img src="https://cdn.simpleicons.org/Ubuntu/E95420" height="12" align="absmiddle"> &nbsp;**roypriyanshu02 ~ ❯** exit <br><br>
 
 <h3 align="center">My repos ⬇️</h3>
